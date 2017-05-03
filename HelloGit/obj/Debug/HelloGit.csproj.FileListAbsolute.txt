@@ -1,0 +1,6 @@
+c:\users\christian.bartsch\documents\visual studio 2012\Projects\HelloGit\HelloGit\bin\Debug\HelloGit.exe.config
+c:\users\christian.bartsch\documents\visual studio 2012\Projects\HelloGit\HelloGit\bin\Debug\HelloGit.exe
+c:\users\christian.bartsch\documents\visual studio 2012\Projects\HelloGit\HelloGit\bin\Debug\HelloGit.pdb
+c:\users\christian.bartsch\documents\visual studio 2012\Projects\HelloGit\HelloGit\obj\Debug\HelloGit.csprojResolveAssemblyReference.cache
+c:\users\christian.bartsch\documents\visual studio 2012\Projects\HelloGit\HelloGit\obj\Debug\HelloGit.exe
+c:\users\christian.bartsch\documents\visual studio 2012\Projects\HelloGit\HelloGit\obj\Debug\HelloGit.pdb
