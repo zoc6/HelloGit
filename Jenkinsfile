@@ -1,11 +1,10 @@
 pipeline {
-    agent { docker 'php' }
+    agent any
     stages {
-        stage('build') {
+        stage('Build') {
             steps {
-                echo aha
+                bat 'set'
             }
         }
     }
 }
-
